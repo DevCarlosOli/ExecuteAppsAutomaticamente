@@ -1,0 +1,15 @@
+C:\Users\Carlos Oliveira\Desktop\Projeto\ExecuteAppsAutomaticamente\ExecuteAppsAutomaticamente\bin\Debug\net6.0\ExecuteAppsAutomaticamente.exe
+C:\Users\Carlos Oliveira\Desktop\Projeto\ExecuteAppsAutomaticamente\ExecuteAppsAutomaticamente\bin\Debug\net6.0\ExecuteAppsAutomaticamente.deps.json
+C:\Users\Carlos Oliveira\Desktop\Projeto\ExecuteAppsAutomaticamente\ExecuteAppsAutomaticamente\bin\Debug\net6.0\ExecuteAppsAutomaticamente.runtimeconfig.json
+C:\Users\Carlos Oliveira\Desktop\Projeto\ExecuteAppsAutomaticamente\ExecuteAppsAutomaticamente\bin\Debug\net6.0\ExecuteAppsAutomaticamente.dll
+C:\Users\Carlos Oliveira\Desktop\Projeto\ExecuteAppsAutomaticamente\ExecuteAppsAutomaticamente\bin\Debug\net6.0\ExecuteAppsAutomaticamente.pdb
+C:\Users\Carlos Oliveira\Desktop\Projeto\ExecuteAppsAutomaticamente\ExecuteAppsAutomaticamente\obj\Debug\net6.0\ExecuteAppsAutomaticamente.csproj.AssemblyReference.cache
+C:\Users\Carlos Oliveira\Desktop\Projeto\ExecuteAppsAutomaticamente\ExecuteAppsAutomaticamente\obj\Debug\net6.0\ExecuteAppsAutomaticamente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos Oliveira\Desktop\Projeto\ExecuteAppsAutomaticamente\ExecuteAppsAutomaticamente\obj\Debug\net6.0\ExecuteAppsAutomaticamente.AssemblyInfoInputs.cache
+C:\Users\Carlos Oliveira\Desktop\Projeto\ExecuteAppsAutomaticamente\ExecuteAppsAutomaticamente\obj\Debug\net6.0\ExecuteAppsAutomaticamente.AssemblyInfo.cs
+C:\Users\Carlos Oliveira\Desktop\Projeto\ExecuteAppsAutomaticamente\ExecuteAppsAutomaticamente\obj\Debug\net6.0\ExecuteAppsAutomaticamente.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Oliveira\Desktop\Projeto\ExecuteAppsAutomaticamente\ExecuteAppsAutomaticamente\obj\Debug\net6.0\ExecuteAppsAutomaticamente.dll
+C:\Users\Carlos Oliveira\Desktop\Projeto\ExecuteAppsAutomaticamente\ExecuteAppsAutomaticamente\obj\Debug\net6.0\refint\ExecuteAppsAutomaticamente.dll
+C:\Users\Carlos Oliveira\Desktop\Projeto\ExecuteAppsAutomaticamente\ExecuteAppsAutomaticamente\obj\Debug\net6.0\ExecuteAppsAutomaticamente.pdb
+C:\Users\Carlos Oliveira\Desktop\Projeto\ExecuteAppsAutomaticamente\ExecuteAppsAutomaticamente\obj\Debug\net6.0\ExecuteAppsAutomaticamente.genruntimeconfig.cache
+C:\Users\Carlos Oliveira\Desktop\Projeto\ExecuteAppsAutomaticamente\ExecuteAppsAutomaticamente\obj\Debug\net6.0\ref\ExecuteAppsAutomaticamente.dll
